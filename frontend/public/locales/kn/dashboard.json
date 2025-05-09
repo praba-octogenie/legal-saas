@@ -1,0 +1,19 @@
+{
+  "welcomeMessage": "Welcome, {{name}}",
+  "totalClients": "Total Clients",
+  "totalCases": "Total Cases",
+  "totalHearings": "Total Hearings",
+  "totalDocuments": "Total Documents",
+  "totalInvoices": "Total Invoices",
+  "recentCases": "Recent Cases",
+  "upcomingHearings": "Upcoming Hearings",
+  "casesByType": "Cases by Type",
+  "revenueByMonth": "Revenue by Month",
+  "noCases": "No Cases",
+  "noHearings": "No Hearings",
+  "cases": "Cases",
+  "revenue": "Revenue",
+  "nextHearing": "Next Hearing",
+  "purpose": "Purpose",
+  "errorFetchingData": "Error fetching dashboard data"
+}
